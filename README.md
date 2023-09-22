@@ -1,7 +1,7 @@
 # unpaywall
 Code to interact and extract data from the Unpaywall database using the Unpaywall API. 
 
-[unpaywall_oa_status.py](https://github.com/ctibbs/unpaywall/blob/main/unpaywall_oa_status.py) - Python script to take a list of DOIs and use the Unpaywall API to identify their OA status.
+[unpaywall_oa_status.py](https://github.com/ctibbs/unpaywall/blob/main/unpaywall_oa_status.py) - Python script to take a list of DOIs and use the Unpaywall API to identify their open access (OA) status.
 
 [DOIs/DOIs_20201202.csv](https://github.com/ctibbs/unpaywall/blob/main/DOIs/DOIs_20201202.csv) - Sample list of DOIs to test the code (the name of this file is expected in format: DOIs_YYYYMMDD.csv
 
